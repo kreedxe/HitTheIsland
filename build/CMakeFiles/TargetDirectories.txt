@@ -1,3 +1,0 @@
-/Users/kreedxe/Desktop/HitTheIsland/build/CMakeFiles/HitTheIsland.dir
-/Users/kreedxe/Desktop/HitTheIsland/build/CMakeFiles/edit_cache.dir
-/Users/kreedxe/Desktop/HitTheIsland/build/CMakeFiles/rebuild_cache.dir
