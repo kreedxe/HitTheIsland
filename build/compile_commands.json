@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/kreedxe/Desktop/HitTheIsland/build",
+  "command": "/usr/bin/clang++ -I/Users/kreedxe/Desktop/HitTheIsland/dependencies/json -isystem /Users/kreedxe/Desktop/HitTheIsland/dependencies/SFML/include -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/HitTheIsland.dir/src/main.cpp.o -c /Users/kreedxe/Desktop/HitTheIsland/src/main.cpp",
+  "file": "/Users/kreedxe/Desktop/HitTheIsland/src/main.cpp",
+  "output": "CMakeFiles/HitTheIsland.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/kreedxe/Desktop/HitTheIsland/build",
+  "command": "/usr/bin/clang++ -I/Users/kreedxe/Desktop/HitTheIsland/dependencies/json -isystem /Users/kreedxe/Desktop/HitTheIsland/dependencies/SFML/include -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/HitTheIsland.dir/src/Ball.cpp.o -c /Users/kreedxe/Desktop/HitTheIsland/src/Ball.cpp",
+  "file": "/Users/kreedxe/Desktop/HitTheIsland/src/Ball.cpp",
+  "output": "CMakeFiles/HitTheIsland.dir/src/Ball.cpp.o"
+},
+{
+  "directory": "/Users/kreedxe/Desktop/HitTheIsland/build",
+  "command": "/usr/bin/clang++ -I/Users/kreedxe/Desktop/HitTheIsland/dependencies/json -isystem /Users/kreedxe/Desktop/HitTheIsland/dependencies/SFML/include -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/HitTheIsland.dir/src/ConfigLoader.cpp.o -c /Users/kreedxe/Desktop/HitTheIsland/src/ConfigLoader.cpp",
+  "file": "/Users/kreedxe/Desktop/HitTheIsland/src/ConfigLoader.cpp",
+  "output": "CMakeFiles/HitTheIsland.dir/src/ConfigLoader.cpp.o"
+},
+{
+  "directory": "/Users/kreedxe/Desktop/HitTheIsland/build",
+  "command": "/usr/bin/clang++ -I/Users/kreedxe/Desktop/HitTheIsland/dependencies/json -isystem /Users/kreedxe/Desktop/HitTheIsland/dependencies/SFML/include -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/HitTheIsland.dir/src/Pad.cpp.o -c /Users/kreedxe/Desktop/HitTheIsland/src/Pad.cpp",
+  "file": "/Users/kreedxe/Desktop/HitTheIsland/src/Pad.cpp",
+  "output": "CMakeFiles/HitTheIsland.dir/src/Pad.cpp.o"
+},
+{
+  "directory": "/Users/kreedxe/Desktop/HitTheIsland/build",
+  "command": "/usr/bin/clang++ -I/Users/kreedxe/Desktop/HitTheIsland/dependencies/json -isystem /Users/kreedxe/Desktop/HitTheIsland/dependencies/SFML/include -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/HitTheIsland.dir/src/ScoreCounter.cpp.o -c /Users/kreedxe/Desktop/HitTheIsland/src/ScoreCounter.cpp",
+  "file": "/Users/kreedxe/Desktop/HitTheIsland/src/ScoreCounter.cpp",
+  "output": "CMakeFiles/HitTheIsland.dir/src/ScoreCounter.cpp.o"
+},
+{
+  "directory": "/Users/kreedxe/Desktop/HitTheIsland/build",
+  "command": "/usr/bin/clang++ -I/Users/kreedxe/Desktop/HitTheIsland/dependencies/json -isystem /Users/kreedxe/Desktop/HitTheIsland/dependencies/SFML/include -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/HitTheIsland.dir/src/Island.cpp.o -c /Users/kreedxe/Desktop/HitTheIsland/src/Island.cpp",
+  "file": "/Users/kreedxe/Desktop/HitTheIsland/src/Island.cpp",
+  "output": "CMakeFiles/HitTheIsland.dir/src/Island.cpp.o"
+}
+]
